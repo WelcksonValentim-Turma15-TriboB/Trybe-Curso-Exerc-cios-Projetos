@@ -1,0 +1,19 @@
+h1 {
+    width: 65px;
+    color: orange;
+    font-family: sans-serif;
+    font-style: italic;
+  }
+
+  .color-list{
+    background-color: rgb(229, 228, 226);
+  }
+
+  .Set-Paragraph{
+    font-weight: 600;
+    font-size: 3em;
+  }
+
+  body{
+    font-size: 16px;
+  }
